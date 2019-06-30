@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinMarketAnalyser", "FinMarketAnalyser\FinMarketAnalyser.csproj", "{AE8371DF-4D95-4BBF-AD9A-E4A6B690D9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinMarketAnalyser.Tests", "FinMarketAnalyser.Tests\FinMarketAnalyser.Tests.csproj", "{62576F2D-D5FF-45A9-8B8A-D64EF04A660A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8371DF-4D95-4BBF-AD9A-E4A6B690D9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8371DF-4D95-4BBF-AD9A-E4A6B690D9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8371DF-4D95-4BBF-AD9A-E4A6B690D9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8371DF-4D95-4BBF-AD9A-E4A6B690D9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62576F2D-D5FF-45A9-8B8A-D64EF04A660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62576F2D-D5FF-45A9-8B8A-D64EF04A660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62576F2D-D5FF-45A9-8B8A-D64EF04A660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62576F2D-D5FF-45A9-8B8A-D64EF04A660A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016ACA29-7D23-4877-9C5C-64710C9B71F5}
+	EndGlobalSection
+EndGlobal
